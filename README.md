@@ -1,6 +1,6 @@
 # Resort Booking Management Auth System
 
-Project quản lý đặt phòng resort full-stack, viết lại hoàn chỉnh theo yêu cầu:
+Project quản lý đặt phòng resort full-stack:
 
 - **Back-end:** Node.js + Express + MongoDB + Mongoose
 - **Front-end:** React + JavaScript + HTML + CSS
